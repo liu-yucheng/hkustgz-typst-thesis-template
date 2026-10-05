@@ -64,8 +64,8 @@
   content
 } // end #let main-content-style
 
-/* Render the given `content` in "bibliography and references style." */
-#let bib-and-refs-style(content) = {
+/* Render the given `content` in "references style." */
+#let refs-style(content) = {
   set page(numbering: "1")
   set heading(numbering: none, supplement: none)
   show heading.where(level: 1): content => {
