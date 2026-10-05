@@ -1,7 +1,7 @@
 /* List of Publications (LoP) page. */
 
-#import "/thesis/template/imports.typ": *
-#import "/thesis/template/styles.typ": *
+#import "../template/imports.typ": *
+#import "../template/styles.typ": *
 
 = List of Publications <list-of-pubs>
 
