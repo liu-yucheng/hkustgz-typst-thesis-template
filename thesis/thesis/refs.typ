@@ -1,9 +1,9 @@
-/* Bibliography and References. */
+/* References. */
 
 #import "../template/imports.typ": *
 #import "../template/styles.typ": *
 
-= Bibliography and References <bib-and-refs>
+= References <refs>
 
 #bibliographyx(
   thesis-hkustgz.info.bib-main,
