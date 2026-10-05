@@ -1,7 +1,7 @@
 /* Bibliography and References. */
 
-#import "/thesis/template/imports.typ": *
-#import "/thesis/template/styles.typ": *
+#import "../template/imports.typ": *
+#import "../template/styles.typ": *
 
 = Bibliography and References <bib-and-refs>
 
