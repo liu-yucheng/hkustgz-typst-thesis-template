@@ -1,6 +1,6 @@
 /* Sample figure. */
 
 #figure(
-  image("/thesis/figures/sample.png"),
+  image("sample-figure/sample-figure.png"),
   caption: [Sample figure.],
 ) // end #figure

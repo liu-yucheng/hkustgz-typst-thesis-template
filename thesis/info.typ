@@ -48,12 +48,12 @@
     // Guangzhou or Hong Kong.
     city: "<City>",
     bib-main: (
-      "/thesis/bib/main.bib",
-      "/thesis/bib/pubs-conf.bib",
-      "/thesis/bib/pubs-journal.bib",
+      "/thesis/thesis/refs/refs.bib",
+      "/thesis/thesis/appendix-list-of-pubs/pubs-conf.bib",
+      "/thesis/thesis/appendix-list-of-pubs/pubs-journal.bib",
     ), // end bib-main
-    bib-pubs-journal: ("/thesis/bib/pubs-journal.bib", ),
-    bib-pubs-conf: ("/thesis/bib/pubs-conf.bib", ),
+    bib-pubs-journal: ("/thesis/thesis/appendix-list-of-pubs/pubs-journal.bib", ),
+    bib-pubs-conf: ("/thesis/thesis/appendix-list-of-pubs/pubs-conf.bib", ),
     committee: (
       (
         name: "Prof. <Chairperson name> (Chairperson)",
