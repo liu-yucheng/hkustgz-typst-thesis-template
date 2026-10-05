@@ -53,8 +53,7 @@
 
 #include "thesis/conclusions.typ"
 
-
-#show: bib-and-refs-style
+#show: refs-style
 #include "thesis/refs.typ"
 
 #show: appendix-style
