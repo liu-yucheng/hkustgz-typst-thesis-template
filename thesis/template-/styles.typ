@@ -1,6 +1,6 @@
 /* Styles. */
 
-#import "/thesis/template/imports.typ": *
+#import "imports.typ": *
 
 /* Render the given `content` in "global style." */
 #let global-style(content) = {
