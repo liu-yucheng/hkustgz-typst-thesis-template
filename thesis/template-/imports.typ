@@ -36,7 +36,7 @@
   table-of-contents: 12pt,
 ) // end #let font-size
 
-#import "/thesis/info.typ": thesis-hkustgz
+#import "../info.typ": thesis-hkustgz
 
 /* Blank page mode. */
 #let blank-page-mode = if thesis-hkustgz.configs.blank-page-enabled { "odd" } else { none }
