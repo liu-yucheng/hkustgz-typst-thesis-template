@@ -1,7 +1,7 @@
 /* Pages. */
 
-#import "/thesis/template/imports.typ": *
-#import "/thesis/template/styles.typ": *
+#import "imports.typ": *
+#import "styles.typ": *
 
 /* Render a title page with the given `thesis`. */
 #let title-page(thesis: thesis-hkustgz) = {[
