@@ -1,7 +1,7 @@
 /* References. */
 
-#import "../template/imports.typ": *
-#import "../template/styles.typ": *
+#import "../template-/imports.typ": *
+#import "../template-/styles.typ": *
 
 = References <refs>
 
