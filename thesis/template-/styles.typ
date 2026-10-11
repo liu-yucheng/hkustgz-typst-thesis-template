@@ -6,7 +6,7 @@
 #let global-style(content) = {
   set page(
     paper: "a4",
-    margin: 25mm,
+    margin: page-margin,
     number-align: center,
   ) // end set page
   set par(
