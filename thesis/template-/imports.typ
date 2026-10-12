@@ -21,9 +21,24 @@
 
 /* Font family configs. */
 #let font-family = (
-  main: ("Cambria", "Go Noto Current Serif",),
-  table-of-contents: ("Cambria", "Go Noto Current Serif",),
-  title: ("Cambria", "Go Noto Current Serif",),
+  main: (
+    "Cambria",
+    "Go Noto Current Serif",
+    "NSimSun",
+    "SimSun",
+  ),
+  table-of-contents: (
+    "Cambria",
+    "Go Noto Current Serif",
+    "NSimSun",
+    "SimSun",
+  ),
+  title: (
+    "Cambria",
+    "Go Noto Current Serif",
+    "NSimSun",
+    "SimSun",
+  ),
   math: ("XITS",),
   mono: ("Cascadia Mono", "Courier New",),
 ) // end #let font-family
